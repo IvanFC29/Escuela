@@ -34,6 +34,6 @@ La función Update correspondiente el CRUD esta en proceso de implementación
 
 ### Anexos
 
-![Imágen de la Base de Datos](https://drive.google.com/file/d/1mtkwUhESAngpoWzIM2HuHdJlKKgpVrvo/view?usp=drive_link)
+![Imágen de la Base de Datos](bin/images/CapturaBD.PNG)
 
-![Imágen de la Interfeaz de operaciones](https://drive.google.com/file/d/1yVcw8EHS1Uk6h36sjNXIgFtr-o80HApN/view?usp=drive_link)
+![Imágen de la Interfeaz de operaciones](bin/images/CapturaInterfaz.PNG)
