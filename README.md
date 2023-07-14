@@ -23,10 +23,10 @@ Aplicación de escritorio en base al almacenamiento de datos básicos correspond
 
 ### Software utilizado
 
-> Visual Studio Code
-> XAMPP (base de datos local)
-> Conector MySql (jar)
-> Conector Itext (jar), utilizada para exportar datos en formato .pdf
+- Visual Studio Code
+- XAMPP (base de datos local)
+- Conector MySql (jar)
+- Conector Itext (jar), utilizada para exportar datos en formato .pdf
 
 ### Otros detalles
 
